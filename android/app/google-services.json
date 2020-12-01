@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740272609940",
+    "firebase_url": "https://voting-app-9749e.firebaseio.com",
+    "project_id": "voting-app-9749e",
+    "storage_bucket": "voting-app-9749e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740272609940:android:f664b1f66cda2a1baf3281",
+        "android_client_info": {
+          "package_name": "com.hayalab.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740272609940-l7obghmepu7kpt714721t9oarduc36h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO10lL624HZ6XdAy2z9Ivpa8PDTqH1-gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740272609940-l7obghmepu7kpt714721t9oarduc36h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740272609940-4ckr78uk389f0oef1ufdeie5qp44b9im.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hayalab.votingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
